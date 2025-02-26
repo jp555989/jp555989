@@ -19,10 +19,14 @@
 ### Projects
 
 #### VHDL state machine brewery 
-- Description: A small project written in VHDL simulating how processes inside brewery look like, I divided them into 6 states (transit,nowork,cleaning, capping, packaging, brewing)
+- Description: A project written in VHDL simulating how processes inside brewery look like, I divided them into 6 states (transit,nowork,cleaning, capping, packaging, brewing)
 - Tech Stack: VHDL, Xilinx ISE 14.7
 - GitHub Repository: [https://github.com/jp555989/brewery-in-vhdl]
 
+### PCB for advanced timer
+- Description: Small project involving Eagle program for designing a PCB specifically in SMD technology.
+- Tech Stack: Eagle
+- GitHub Repository: [https://github.com/jp555989/adv_timer_pcb.git]
 
 ### Connect with Me
 
