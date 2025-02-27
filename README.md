@@ -36,3 +36,5 @@
 ### Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/your-linkedin-profile](https://www.linkedin.com/in/j%C4%99drzej-powa%C5%82owski-aa2868312/))
+
+https://www.linkedin.com/in/j%C4%99drzej-powa%C5%82owski-aa2868312/
