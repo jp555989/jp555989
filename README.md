@@ -33,6 +33,11 @@
 - Tech Stack: C
 - GitHub Repository: [https://github.com/jp555989/pwm_pico]
 
+### Spinning LED screen body in Blender
+- Description: Model designed to be 3D printed and put together into a spinning LED screen.
+- Tech Stack: Blender
+- GitHub Repository: [https://github.com/jp555989/spin_screen_model]
+
 ### Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/your-linkedin-profile](https://www.linkedin.com/in/j%C4%99drzej-powa%C5%82owski-aa2868312/))
