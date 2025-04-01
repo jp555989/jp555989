@@ -4,7 +4,7 @@
 
 ### About Me
 
-- 🌱 I’m currently learning PCB design, blender & 3D printing, assembler programming
+- 🌱 I’m currently learning PCB design, KiCad & 3D printing, assembler programming
 - 💬 Ask me about  [game design, laptops] 
 - 📫 How to reach me: [jpowork@tutamail.com]
 - ⚡ Fun fact: I love linux
