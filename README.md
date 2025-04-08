@@ -23,6 +23,11 @@
 - Tech Stack: VHDL, Xilinx ISE 14.7
 - GitHub Repository: [https://github.com/jp555989/brewery-in-vhdl]
 
+### Smart_mirror PCB
+- Description: PCB board for a bigger project, it's main task is controlling RGB via pwm.
+- Tech Stack: KiCad
+- GitHub Repository: [https://github.com/jp555989/Smart_mirror]
+
 ### PCB for advanced timer
 - Description: Small project involving Eagle program for designing a PCB specifically in SMD technology.
 - Tech Stack: Eagle
