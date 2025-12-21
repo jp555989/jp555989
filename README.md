@@ -29,7 +29,7 @@
 - Description: A project I did for science circle, its function was to output 12V and 5V on couple of screw terminals by connecting a bigger charger (12V 30A) to the PCB, that way it could charge all spincoater's peripherals. 
 - Tech Stack: KiCad, LtSpice
 - GitHub Repository: [https://github.com/jp555989/Spincoater-charger]
-- 
+
 #### VHDL state machine brewery 
 - Description: A project written in VHDL simulating how processes inside brewery look like, I divided them into 6 states (transit,nowork,cleaning, capping, packaging, brewing)
 - Tech Stack: VHDL, Xilinx ISE 14.7
