@@ -20,23 +20,23 @@
 
 
 
-#### Arduino Shield
+### Arduino Shield
 - Description: This is a project I made for my engineer thesis which involves designing a shield for Arduino with as many useful functions as possible, using ready to program modules like LCD Display, RTC module, etc.
 - Tech Stack: KiCad, C programming, Arduino, LtSpice
 - GitHub Repository: [https://github.com/jp555989/Arduino-shield]
 
-#### Spincoater charger 
+### Spincoater charger 
 - Description: A project I did for science circle, its function was to output 12V and 5V on couple of screw terminals by connecting a bigger charger (12V 30A) to the PCB, that way it could charge all spincoater's peripherals. 
 - Tech Stack: KiCad, LtSpice
 - GitHub Repository: [https://github.com/jp555989/Spincoater-charger]
 
-#### VHDL state machine brewery 
+### VHDL state machine brewery 
 - Description: A project written in VHDL simulating how processes inside brewery look like, I divided them into 6 states (transit,nowork,cleaning, capping, packaging, brewing)
 - Tech Stack: VHDL, Xilinx ISE 14.7
 - GitHub Repository: [https://github.com/jp555989/brewery-in-vhdl]
 
 ### Smart_mirror PCB
-- Description: PCB board for a bigger project, it's main task is controlling RGB via pwm.
+- Description: PCB board for a bigger project, its main task is controlling RGB via pwm.
 - Tech Stack: KiCad
 - GitHub Repository: [https://github.com/jp555989/Smart_mirror]
 
