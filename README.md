@@ -18,7 +18,15 @@
 
 ### Projects
 
+### Inducter_tx
+- Description: This project is involved with designing transmitter for wireless power transfer circuit. The input voltage is 12V DC, resonant frequency is set to 90kHz however it's possible to change it by switching values of RC circuit in CD4047.
+- Tech Stack: KiCad, LtSpice
+- GitHub Repository: [https://github.com/jp555989/Inducter_tx]
 
+### Inducter_tx
+- Description: This project involves designing a receiver for wireless power transfer circuit, it's supplying a load of 5V 5A.
+- Tech Stack: KiCad, LtSpice
+- GitHub Repository: [https://github.com/jp555989/Inducter_rx]
 
 ### Arduino Shield
 - Description: This is a project I made for my engineer thesis which involves designing a shield for Arduino with as many useful functions as possible, using ready to program modules like LCD Display, RTC module, etc.
