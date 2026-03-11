@@ -8,6 +8,7 @@
 - 💬 Ask me about  [game design, laptops] 
 - 📫 How to reach me: [jpowork@tutamail.com]
 - ⚡ Fun fact: I love linux
+- ❓ Currently working on: I want to make my own mp3 player from scratch, with voice record function, and possibly some other peripherals, based on STM32F411CEU6 and VS1053.
 
 ### Skills & Technologies
 
@@ -18,20 +19,20 @@
 
 ### Projects
 
+### Arduino Shield
+- Description: This is a project I made for my engineer thesis which involves designing a shield for Arduino with as many useful functions as possible, using ready to program modules like LCD Display, RTC module, etc.
+- Tech Stack: KiCad, C programming, Arduino, LtSpice
+- GitHub Repository: [https://github.com/jp555989/Arduino-shield]
+
 ### Inducter_tx
 - Description: This project is involved with designing transmitter for wireless power transfer circuit. The input voltage is 12V DC, resonant frequency is set to 90kHz however it's possible to change it by switching values of RC circuit in CD4047.
 - Tech Stack: KiCad, LtSpice
 - GitHub Repository: [https://github.com/jp555989/Inducter_tx]
 
 ### Inducter_tx
-- Description: This project involves designing a receiver for wireless power transfer circuit, it's supplying a load of 5V 5A.
+- Description: This project involves designing a receiver for wireless power transfer circuit, it provides a 5V 5A supply.
 - Tech Stack: KiCad, LtSpice
 - GitHub Repository: [https://github.com/jp555989/Inducter_rx]
-
-### Arduino Shield
-- Description: This is a project I made for my engineer thesis which involves designing a shield for Arduino with as many useful functions as possible, using ready to program modules like LCD Display, RTC module, etc.
-- Tech Stack: KiCad, C programming, Arduino, LtSpice
-- GitHub Repository: [https://github.com/jp555989/Arduino-shield]
 
 ### Spincoater charger 
 - Description: A project I did for science circle, its function was to output 12V and 5V on couple of screw terminals by connecting a bigger charger (12V 30A) to the PCB, that way it could charge all spincoater's peripherals. 
