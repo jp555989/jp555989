@@ -19,6 +19,12 @@
 
 ### Projects
 
+
+### P.I.W.O RX
+- Description: Receiver board for P.I.W.O project from SKN MOS, its main task is connecting wirelessly with transmitter and powering as well as controlling external LED board
+- Tech Stack: KiCad, C programming, Pico SDK, LtSpice
+- GitHub Repository: [https://github.com/jp555989/PIWO_RX]
+
 ### Arduino Shield
 - Description: This is a project I made for my engineer thesis which involves designing a shield for Arduino with as many useful functions as possible, using ready to program modules like LCD Display, RTC module, etc.
 - Tech Stack: KiCad, C programming, Arduino, LtSpice
